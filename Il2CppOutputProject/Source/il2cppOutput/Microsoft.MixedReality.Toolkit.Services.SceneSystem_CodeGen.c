@@ -1,0 +1,567 @@
+﻿#include "il2cpp-config.h"
+
+#ifndef _MSC_VER
+# include <alloca.h>
+#else
+# include <malloc.h>
+#endif
+
+
+
+#include "codegen/il2cpp-codegen-metadata.h"
+
+
+
+
+
+IL2CPP_EXTERN_C_BEGIN
+IL2CPP_EXTERN_C_END
+
+
+
+
+// 0x00000001 System.Void Microsoft.MixedReality.Toolkit.SceneSystem.MixedRealitySceneSystem::.ctor(Microsoft.MixedReality.Toolkit.IMixedRealityServiceRegistrar,Microsoft.MixedReality.Toolkit.SceneSystem.MixedRealitySceneSystemProfile)
+extern void MixedRealitySceneSystem__ctor_m59A0C4B19A4DE7C588F0A8B61637B19C12DE266B (void);
+// 0x00000002 System.Void Microsoft.MixedReality.Toolkit.SceneSystem.MixedRealitySceneSystem::.ctor(Microsoft.MixedReality.Toolkit.SceneSystem.MixedRealitySceneSystemProfile)
+extern void MixedRealitySceneSystem__ctor_m269CD71964497564EC9250DBB616DD460B497736 (void);
+// 0x00000003 Microsoft.MixedReality.Toolkit.SceneSystem.MixedRealitySceneSystemProfile Microsoft.MixedReality.Toolkit.SceneSystem.MixedRealitySceneSystem::get_Profile()
+extern void MixedRealitySceneSystem_get_Profile_m50B0C0D023B01CA22A6967E2D45D96E9EF21B813 (void);
+// 0x00000004 System.String Microsoft.MixedReality.Toolkit.SceneSystem.MixedRealitySceneSystem::get_Name()
+extern void MixedRealitySceneSystem_get_Name_mBAE40D4A0F4720CF21703B3A19E864F764EE4B05 (void);
+// 0x00000005 System.Void Microsoft.MixedReality.Toolkit.SceneSystem.MixedRealitySceneSystem::set_Name(System.String)
+extern void MixedRealitySceneSystem_set_Name_m07D9F2BC37B70A7F664B0AC1F378683A0D78FCB1 (void);
+// 0x00000006 System.Action`1<System.Collections.Generic.IEnumerable`1<System.String>> Microsoft.MixedReality.Toolkit.SceneSystem.MixedRealitySceneSystem::get_OnWillLoadContent()
+extern void MixedRealitySceneSystem_get_OnWillLoadContent_m06074F8194796833278CE0103661CA8FE72BAE7A (void);
+// 0x00000007 System.Void Microsoft.MixedReality.Toolkit.SceneSystem.MixedRealitySceneSystem::set_OnWillLoadContent(System.Action`1<System.Collections.Generic.IEnumerable`1<System.String>>)
+extern void MixedRealitySceneSystem_set_OnWillLoadContent_m448BF1A7CCA5A509B56542C5E23FC623BF4943A6 (void);
+// 0x00000008 System.Action`1<System.Collections.Generic.IEnumerable`1<System.String>> Microsoft.MixedReality.Toolkit.SceneSystem.MixedRealitySceneSystem::get_OnContentLoaded()
+extern void MixedRealitySceneSystem_get_OnContentLoaded_mC806CA97CB4385EEB5D098AED9C0EF6199E99063 (void);
+// 0x00000009 System.Void Microsoft.MixedReality.Toolkit.SceneSystem.MixedRealitySceneSystem::set_OnContentLoaded(System.Action`1<System.Collections.Generic.IEnumerable`1<System.String>>)
+extern void MixedRealitySceneSystem_set_OnContentLoaded_mC2DE5C4C8CC278C6A422719EEA0DC9B28FE4BB1C (void);
+// 0x0000000A System.Action`1<System.Collections.Generic.IEnumerable`1<System.String>> Microsoft.MixedReality.Toolkit.SceneSystem.MixedRealitySceneSystem::get_OnWillUnloadContent()
+extern void MixedRealitySceneSystem_get_OnWillUnloadContent_mB187177695501CA4FBBDC6C8F4726B2D8D8E86E8 (void);
+// 0x0000000B System.Void Microsoft.MixedReality.Toolkit.SceneSystem.MixedRealitySceneSystem::set_OnWillUnloadContent(System.Action`1<System.Collections.Generic.IEnumerable`1<System.String>>)
+extern void MixedRealitySceneSystem_set_OnWillUnloadContent_m83AE818B81DA0B206B4BA6D6A3B466C272790F03 (void);
+// 0x0000000C System.Action`1<System.Collections.Generic.IEnumerable`1<System.String>> Microsoft.MixedReality.Toolkit.SceneSystem.MixedRealitySceneSystem::get_OnContentUnloaded()
+extern void MixedRealitySceneSystem_get_OnContentUnloaded_m1E326A924F120D88168182FA5CFC37053381F98D (void);
+// 0x0000000D System.Void Microsoft.MixedReality.Toolkit.SceneSystem.MixedRealitySceneSystem::set_OnContentUnloaded(System.Action`1<System.Collections.Generic.IEnumerable`1<System.String>>)
+extern void MixedRealitySceneSystem_set_OnContentUnloaded_m01A2351F2A99AABEE43E698F76436575356C7036 (void);
+// 0x0000000E System.Action`1<System.String> Microsoft.MixedReality.Toolkit.SceneSystem.MixedRealitySceneSystem::get_OnWillLoadLighting()
+extern void MixedRealitySceneSystem_get_OnWillLoadLighting_m9D1414CB1FD7CA6F44BF95BCF835FFE11E8BC6BC (void);
+// 0x0000000F System.Void Microsoft.MixedReality.Toolkit.SceneSystem.MixedRealitySceneSystem::set_OnWillLoadLighting(System.Action`1<System.String>)
+extern void MixedRealitySceneSystem_set_OnWillLoadLighting_m5CD5AD8BCB8D44AB859220CAD2241FCD0F6079C0 (void);
+// 0x00000010 System.Action`1<System.String> Microsoft.MixedReality.Toolkit.SceneSystem.MixedRealitySceneSystem::get_OnLightingLoaded()
+extern void MixedRealitySceneSystem_get_OnLightingLoaded_m079A52C90368A98DF2FD7AB5C88C826E60E9D6BE (void);
+// 0x00000011 System.Void Microsoft.MixedReality.Toolkit.SceneSystem.MixedRealitySceneSystem::set_OnLightingLoaded(System.Action`1<System.String>)
+extern void MixedRealitySceneSystem_set_OnLightingLoaded_m7465A0EE8B2228E016A4375BFB20F6C9E5EB3C91 (void);
+// 0x00000012 System.Action`1<System.String> Microsoft.MixedReality.Toolkit.SceneSystem.MixedRealitySceneSystem::get_OnWillUnloadLighting()
+extern void MixedRealitySceneSystem_get_OnWillUnloadLighting_mAD3EEAFA85BBCBDD0862F7D3CAD54B6043C10257 (void);
+// 0x00000013 System.Void Microsoft.MixedReality.Toolkit.SceneSystem.MixedRealitySceneSystem::set_OnWillUnloadLighting(System.Action`1<System.String>)
+extern void MixedRealitySceneSystem_set_OnWillUnloadLighting_mC048C9CA60AB2A83C733DAB6DC00E40394E4F576 (void);
+// 0x00000014 System.Action`1<System.String> Microsoft.MixedReality.Toolkit.SceneSystem.MixedRealitySceneSystem::get_OnLightingUnloaded()
+extern void MixedRealitySceneSystem_get_OnLightingUnloaded_mA8D408C8EACD1E4840AACF8FA4E79074A1F37931 (void);
+// 0x00000015 System.Void Microsoft.MixedReality.Toolkit.SceneSystem.MixedRealitySceneSystem::set_OnLightingUnloaded(System.Action`1<System.String>)
+extern void MixedRealitySceneSystem_set_OnLightingUnloaded_m12470FC6C1ED6A6856F9C84AB003AAF28416ECEB (void);
+// 0x00000016 System.Action`1<System.String> Microsoft.MixedReality.Toolkit.SceneSystem.MixedRealitySceneSystem::get_OnWillLoadScene()
+extern void MixedRealitySceneSystem_get_OnWillLoadScene_m18933FF127D39B3BB8582F5B4817A9AD415D2CC8 (void);
+// 0x00000017 System.Void Microsoft.MixedReality.Toolkit.SceneSystem.MixedRealitySceneSystem::set_OnWillLoadScene(System.Action`1<System.String>)
+extern void MixedRealitySceneSystem_set_OnWillLoadScene_m2548A197D7E4AD30E0FA61D6A146649852C3F6B4 (void);
+// 0x00000018 System.Action`1<System.String> Microsoft.MixedReality.Toolkit.SceneSystem.MixedRealitySceneSystem::get_OnSceneLoaded()
+extern void MixedRealitySceneSystem_get_OnSceneLoaded_m0EBE4AA276A77C3EFA15636A5B67F240B7DF581A (void);
+// 0x00000019 System.Void Microsoft.MixedReality.Toolkit.SceneSystem.MixedRealitySceneSystem::set_OnSceneLoaded(System.Action`1<System.String>)
+extern void MixedRealitySceneSystem_set_OnSceneLoaded_m019D3874D4D5CE7762372D529A62DB216C9B8C02 (void);
+// 0x0000001A System.Action`1<System.String> Microsoft.MixedReality.Toolkit.SceneSystem.MixedRealitySceneSystem::get_OnWillUnloadScene()
+extern void MixedRealitySceneSystem_get_OnWillUnloadScene_m1B9A4B60978BC59EA011E1F16FD4066AD05015D8 (void);
+// 0x0000001B System.Void Microsoft.MixedReality.Toolkit.SceneSystem.MixedRealitySceneSystem::set_OnWillUnloadScene(System.Action`1<System.String>)
+extern void MixedRealitySceneSystem_set_OnWillUnloadScene_mDF1576F8DD0B41A26CD57B1110870D24E049BB58 (void);
+// 0x0000001C System.Action`1<System.String> Microsoft.MixedReality.Toolkit.SceneSystem.MixedRealitySceneSystem::get_OnSceneUnloaded()
+extern void MixedRealitySceneSystem_get_OnSceneUnloaded_m00F47DD827EC6BA659F606B9716B7C262031154A (void);
+// 0x0000001D System.Void Microsoft.MixedReality.Toolkit.SceneSystem.MixedRealitySceneSystem::set_OnSceneUnloaded(System.Action`1<System.String>)
+extern void MixedRealitySceneSystem_set_OnSceneUnloaded_m8C6C1BCCE91DC918C4069C9FFCFE1394DB26DBDE (void);
+// 0x0000001E System.Boolean Microsoft.MixedReality.Toolkit.SceneSystem.MixedRealitySceneSystem::get_SceneOperationInProgress()
+extern void MixedRealitySceneSystem_get_SceneOperationInProgress_mD596AF58CE55CB3729D41CD58E4D7069D7D16284 (void);
+// 0x0000001F System.Void Microsoft.MixedReality.Toolkit.SceneSystem.MixedRealitySceneSystem::set_SceneOperationInProgress(System.Boolean)
+extern void MixedRealitySceneSystem_set_SceneOperationInProgress_m6034D3CFCFB9136DD9ED82F0BAF2ED5A11A7B247 (void);
+// 0x00000020 System.Single Microsoft.MixedReality.Toolkit.SceneSystem.MixedRealitySceneSystem::get_SceneOperationProgress()
+extern void MixedRealitySceneSystem_get_SceneOperationProgress_m94FB87AA86851E1AB33E31279DD057DFA83887BF (void);
+// 0x00000021 System.Void Microsoft.MixedReality.Toolkit.SceneSystem.MixedRealitySceneSystem::set_SceneOperationProgress(System.Single)
+extern void MixedRealitySceneSystem_set_SceneOperationProgress_mA56602B86A69F93195366FC2D5BCFD0801F79882 (void);
+// 0x00000022 System.Boolean Microsoft.MixedReality.Toolkit.SceneSystem.MixedRealitySceneSystem::get_LightingOperationInProgress()
+extern void MixedRealitySceneSystem_get_LightingOperationInProgress_m9A09AE54B23716C671030207145A5FDA780BB46C (void);
+// 0x00000023 System.Void Microsoft.MixedReality.Toolkit.SceneSystem.MixedRealitySceneSystem::set_LightingOperationInProgress(System.Boolean)
+extern void MixedRealitySceneSystem_set_LightingOperationInProgress_m10F78F2CB2FAE8B56EF3A91151CB885DE026BEF4 (void);
+// 0x00000024 System.Single Microsoft.MixedReality.Toolkit.SceneSystem.MixedRealitySceneSystem::get_LightingOperationProgress()
+extern void MixedRealitySceneSystem_get_LightingOperationProgress_m4FB836CFE24DDDD5E1C6F4CD2441C352459EDBF8 (void);
+// 0x00000025 System.Void Microsoft.MixedReality.Toolkit.SceneSystem.MixedRealitySceneSystem::set_LightingOperationProgress(System.Single)
+extern void MixedRealitySceneSystem_set_LightingOperationProgress_mD9190614F7A6EC89A62304EDDDA2CBD52137DC03 (void);
+// 0x00000026 System.String Microsoft.MixedReality.Toolkit.SceneSystem.MixedRealitySceneSystem::get_ActiveLightingScene()
+extern void MixedRealitySceneSystem_get_ActiveLightingScene_m6059609B2E81093A78DA0A65D3C9E53A661DC8E1 (void);
+// 0x00000027 System.Void Microsoft.MixedReality.Toolkit.SceneSystem.MixedRealitySceneSystem::set_ActiveLightingScene(System.String)
+extern void MixedRealitySceneSystem_set_ActiveLightingScene_m43375AD376B3F5CDB0242BA62F8E22AE33D4326B (void);
+// 0x00000028 System.Boolean Microsoft.MixedReality.Toolkit.SceneSystem.MixedRealitySceneSystem::get_WaitingToProceed()
+extern void MixedRealitySceneSystem_get_WaitingToProceed_mA4DADF460836FD17709FC467B6DE32D33EB8A6A3 (void);
+// 0x00000029 System.Void Microsoft.MixedReality.Toolkit.SceneSystem.MixedRealitySceneSystem::set_WaitingToProceed(System.Boolean)
+extern void MixedRealitySceneSystem_set_WaitingToProceed_m7F48FB5A6755B21303B0330B13B9F3B55E73B3B6 (void);
+// 0x0000002A System.Boolean Microsoft.MixedReality.Toolkit.SceneSystem.MixedRealitySceneSystem::get_PrevContentExists()
+extern void MixedRealitySceneSystem_get_PrevContentExists_m90A05A50D64097442670A89DBF3D5597E24F7403 (void);
+// 0x0000002B System.Boolean Microsoft.MixedReality.Toolkit.SceneSystem.MixedRealitySceneSystem::get_NextContentExists()
+extern void MixedRealitySceneSystem_get_NextContentExists_m232A017592CDBE31CACF63AE791BE0946BF3C6CA (void);
+// 0x0000002C System.String[] Microsoft.MixedReality.Toolkit.SceneSystem.MixedRealitySceneSystem::get_ContentSceneNames()
+extern void MixedRealitySceneSystem_get_ContentSceneNames_m74B1DF0ED24D8A793214A778D02A6F6EDCE16EF9 (void);
+// 0x0000002D System.UInt32 Microsoft.MixedReality.Toolkit.SceneSystem.MixedRealitySceneSystem::get_SourceId()
+extern void MixedRealitySceneSystem_get_SourceId_m9E5E1AEAFB7CCEF112ACB9922C24994858DECF12 (void);
+// 0x0000002E System.String Microsoft.MixedReality.Toolkit.SceneSystem.MixedRealitySceneSystem::get_SourceName()
+extern void MixedRealitySceneSystem_get_SourceName_mA65B25226EDC0D9CCE9D3111B664DF877291FD75 (void);
+// 0x0000002F System.Void Microsoft.MixedReality.Toolkit.SceneSystem.MixedRealitySceneSystem::Initialize()
+extern void MixedRealitySceneSystem_Initialize_mE7A188ABAB191151E4696652E9E7C8AD322AAF6C (void);
+// 0x00000030 System.Void Microsoft.MixedReality.Toolkit.SceneSystem.MixedRealitySceneSystem::Enable()
+extern void MixedRealitySceneSystem_Enable_mD722B77A4763AF1AF2DAB184459780D60B60A153 (void);
+// 0x00000031 System.Void Microsoft.MixedReality.Toolkit.SceneSystem.MixedRealitySceneSystem::Disable()
+extern void MixedRealitySceneSystem_Disable_m7B5CEB9758C5A9C6CE403282B2EC7C1860F63CE9 (void);
+// 0x00000032 System.Void Microsoft.MixedReality.Toolkit.SceneSystem.MixedRealitySceneSystem::Destroy()
+extern void MixedRealitySceneSystem_Destroy_mF7CB0A7FCEC467B3FF2743576DDB53466D75AFE5 (void);
+// 0x00000033 System.Void Microsoft.MixedReality.Toolkit.SceneSystem.MixedRealitySceneSystem::Update()
+extern void MixedRealitySceneSystem_Update_mADA575936B23F39D9B1D2F7FFA1869E4270ACD38 (void);
+// 0x00000034 System.Threading.Tasks.Task Microsoft.MixedReality.Toolkit.SceneSystem.MixedRealitySceneSystem::LoadNextContent(System.Boolean,UnityEngine.SceneManagement.LoadSceneMode,Microsoft.MixedReality.Toolkit.SceneSystem.SceneActivationToken)
+extern void MixedRealitySceneSystem_LoadNextContent_m32568ED2ED9002DDF2BE295E13E67C524A0CD147 (void);
+// 0x00000035 System.Threading.Tasks.Task Microsoft.MixedReality.Toolkit.SceneSystem.MixedRealitySceneSystem::LoadPrevContent(System.Boolean,UnityEngine.SceneManagement.LoadSceneMode,Microsoft.MixedReality.Toolkit.SceneSystem.SceneActivationToken)
+extern void MixedRealitySceneSystem_LoadPrevContent_m58E9F247C4A7AC10FC1F97D7A235EA59659C9C66 (void);
+// 0x00000036 System.Threading.Tasks.Task Microsoft.MixedReality.Toolkit.SceneSystem.MixedRealitySceneSystem::LoadContent(System.String,UnityEngine.SceneManagement.LoadSceneMode,Microsoft.MixedReality.Toolkit.SceneSystem.SceneActivationToken)
+extern void MixedRealitySceneSystem_LoadContent_m5E4603EC5354B6DEF6E53B364FC686A6A3E737FB (void);
+// 0x00000037 System.Threading.Tasks.Task Microsoft.MixedReality.Toolkit.SceneSystem.MixedRealitySceneSystem::UnloadContent(System.String)
+extern void MixedRealitySceneSystem_UnloadContent_m0ED97192272C87302ED4035BEB5CF6738B4037BC (void);
+// 0x00000038 System.Threading.Tasks.Task Microsoft.MixedReality.Toolkit.SceneSystem.MixedRealitySceneSystem::LoadContentByTag(System.String,UnityEngine.SceneManagement.LoadSceneMode,Microsoft.MixedReality.Toolkit.SceneSystem.SceneActivationToken)
+extern void MixedRealitySceneSystem_LoadContentByTag_mC04549B98583A622E5B9E7164AF5ED626C95B867 (void);
+// 0x00000039 System.Threading.Tasks.Task Microsoft.MixedReality.Toolkit.SceneSystem.MixedRealitySceneSystem::UnloadContentByTag(System.String)
+extern void MixedRealitySceneSystem_UnloadContentByTag_mD902606A2D0F61888C5AD1AAE52CD0ABEEB5E913 (void);
+// 0x0000003A System.Threading.Tasks.Task Microsoft.MixedReality.Toolkit.SceneSystem.MixedRealitySceneSystem::LoadContent(System.Collections.Generic.IEnumerable`1<System.String>,UnityEngine.SceneManagement.LoadSceneMode,Microsoft.MixedReality.Toolkit.SceneSystem.SceneActivationToken)
+extern void MixedRealitySceneSystem_LoadContent_m6356668462AE5151092A697AE6ABCB6481BD416D (void);
+// 0x0000003B System.Threading.Tasks.Task Microsoft.MixedReality.Toolkit.SceneSystem.MixedRealitySceneSystem::UnloadContent(System.Collections.Generic.IEnumerable`1<System.String>)
+extern void MixedRealitySceneSystem_UnloadContent_m332DEEF01018D3A3A7AEE2F98E6713B42FFEC2C5 (void);
+// 0x0000003C System.Boolean Microsoft.MixedReality.Toolkit.SceneSystem.MixedRealitySceneSystem::IsContentLoaded(System.String)
+extern void MixedRealitySceneSystem_IsContentLoaded_m1CE3B2248CC0CD5A9001AD66CCCE241FA91F2515 (void);
+// 0x0000003D System.Void Microsoft.MixedReality.Toolkit.SceneSystem.MixedRealitySceneSystem::SetLightingScene(System.String,Microsoft.MixedReality.Toolkit.SceneSystem.LightingSceneTransitionType,System.Single)
+extern void MixedRealitySceneSystem_SetLightingScene_m43716CB2F0B1F9F6E01E1F389F6CF175ABCCE7EB (void);
+// 0x0000003E System.Void Microsoft.MixedReality.Toolkit.SceneSystem.MixedRealitySceneSystem::SetManagerScene(System.String)
+extern void MixedRealitySceneSystem_SetManagerScene_m99B96EB5A3BD08333B6FAE3C47AD05415884AF05 (void);
+// 0x0000003F System.Threading.Tasks.Task Microsoft.MixedReality.Toolkit.SceneSystem.MixedRealitySceneSystem::LoadScenesInternal(System.Collections.Generic.IEnumerable`1<System.String>,Microsoft.MixedReality.Toolkit.SceneSystem.MixedRealitySceneSystem_SceneType,Microsoft.MixedReality.Toolkit.SceneSystem.SceneActivationToken,System.Single,System.Single,System.Boolean)
+extern void MixedRealitySceneSystem_LoadScenesInternal_m7402F8BE483C6A02A1C16AB391D420AE99EB3306 (void);
+// 0x00000040 System.Threading.Tasks.Task Microsoft.MixedReality.Toolkit.SceneSystem.MixedRealitySceneSystem::UnloadScenesInternal(System.Collections.Generic.IEnumerable`1<System.String>,Microsoft.MixedReality.Toolkit.SceneSystem.MixedRealitySceneSystem_SceneType,System.Single,System.Single,System.Boolean)
+extern void MixedRealitySceneSystem_UnloadScenesInternal_m0687587E87213119ACC9D6E4B7D2C69605FD90C1 (void);
+// 0x00000041 System.Void Microsoft.MixedReality.Toolkit.SceneSystem.MixedRealitySceneSystem::SetSceneOpProgress(System.Boolean,System.Single,Microsoft.MixedReality.Toolkit.SceneSystem.MixedRealitySceneSystem_SceneType)
+extern void MixedRealitySceneSystem_SetSceneOpProgress_m825EE332703DF0F52E7D287448B828EFE78775E0 (void);
+// 0x00000042 System.Boolean Microsoft.MixedReality.Toolkit.SceneSystem.MixedRealitySceneSystem::CanSceneOpProceed(Microsoft.MixedReality.Toolkit.SceneSystem.MixedRealitySceneSystem_SceneType)
+extern void MixedRealitySceneSystem_CanSceneOpProceed_mE41C6683B30EB5043B614EC4A5505EC327F1C58B (void);
+// 0x00000043 System.Void Microsoft.MixedReality.Toolkit.SceneSystem.MixedRealitySceneSystem::InvokeLoadedActions(System.Collections.Generic.List`1<System.String>,Microsoft.MixedReality.Toolkit.SceneSystem.MixedRealitySceneSystem_SceneType)
+extern void MixedRealitySceneSystem_InvokeLoadedActions_m6842ACE85D83072F518C70818773213BF9E165C3 (void);
+// 0x00000044 System.Void Microsoft.MixedReality.Toolkit.SceneSystem.MixedRealitySceneSystem::InvokeWillLoadActions(System.Collections.Generic.List`1<System.String>,Microsoft.MixedReality.Toolkit.SceneSystem.MixedRealitySceneSystem_SceneType)
+extern void MixedRealitySceneSystem_InvokeWillLoadActions_mFD2A0883FFCC9162A70644F5FAD221DF0E9C54F0 (void);
+// 0x00000045 System.Void Microsoft.MixedReality.Toolkit.SceneSystem.MixedRealitySceneSystem::InvokeWillUnloadActions(System.Collections.Generic.List`1<System.String>,Microsoft.MixedReality.Toolkit.SceneSystem.MixedRealitySceneSystem_SceneType)
+extern void MixedRealitySceneSystem_InvokeWillUnloadActions_mF7697C6EEEA68A9E481025466567156D4FE08FDC (void);
+// 0x00000046 System.Void Microsoft.MixedReality.Toolkit.SceneSystem.MixedRealitySceneSystem::InvokeUnloadedActions(System.Collections.Generic.List`1<System.String>,Microsoft.MixedReality.Toolkit.SceneSystem.MixedRealitySceneSystem_SceneType)
+extern void MixedRealitySceneSystem_InvokeUnloadedActions_m3A0139A981CFB2BED1593E0F14A8CB735863FE0C (void);
+// 0x00000047 System.Collections.Generic.IEnumerable`1<UnityEngine.SceneManagement.Scene> Microsoft.MixedReality.Toolkit.SceneSystem.MixedRealitySceneSystem::GetScenes(System.Collections.Generic.IEnumerable`1<System.String>)
+extern void MixedRealitySceneSystem_GetScenes_m616F54BC46ACACBB3CC1D65FD10B4CA84B2D2AEB (void);
+// 0x00000048 UnityEngine.SceneManagement.Scene Microsoft.MixedReality.Toolkit.SceneSystem.MixedRealitySceneSystem::GetScene(System.String)
+extern void MixedRealitySceneSystem_GetScene_m83FED6C0731FBBCD82F8D270F817520DBE73D7D4 (void);
+// 0x00000049 System.Boolean Microsoft.MixedReality.Toolkit.SceneSystem.MixedRealitySceneSystem::GetLoadedContentScenes(System.Collections.Generic.IEnumerable`1<System.String>&)
+extern void MixedRealitySceneSystem_GetLoadedContentScenes_m31BE21E65ACA8D1A54D126A94F066BD9584EACFC (void);
+// 0x0000004A System.Boolean Microsoft.MixedReality.Toolkit.SceneSystem.MixedRealitySceneSystem::System.Collections.IEqualityComparer.Equals(System.Object,System.Object)
+extern void MixedRealitySceneSystem_System_Collections_IEqualityComparer_Equals_mF8A02CD2C4E97B1AD1E3390F69AEE061E54B45C9 (void);
+// 0x0000004B System.Int32 Microsoft.MixedReality.Toolkit.SceneSystem.MixedRealitySceneSystem::System.Collections.IEqualityComparer.GetHashCode(System.Object)
+extern void MixedRealitySceneSystem_System_Collections_IEqualityComparer_GetHashCode_mD777FC99E7AC5C331549F6C0DB0A42F3465F6198 (void);
+// 0x0000004C System.Void Microsoft.MixedReality.Toolkit.SceneSystem.MixedRealitySceneSystem::.cctor()
+extern void MixedRealitySceneSystem__cctor_m14B1C5AFF73F28E451F829AAF4EEEF1F27A12B1B (void);
+// 0x0000004D System.Void Microsoft.MixedReality.Toolkit.SceneSystem.MixedRealitySceneSystem_SceneContentTracker::.ctor(Microsoft.MixedReality.Toolkit.SceneSystem.MixedRealitySceneSystemProfile)
+extern void SceneContentTracker__ctor_m280879C372C6E471341660D7C1DB97BAE522412C (void);
+// 0x0000004E System.String[] Microsoft.MixedReality.Toolkit.SceneSystem.MixedRealitySceneSystem_SceneContentTracker::get_ContentSceneNames()
+extern void SceneContentTracker_get_ContentSceneNames_mE5CDD7E26CEC8B8C59F6276C25F16B67B8982056 (void);
+// 0x0000004F Microsoft.MixedReality.Toolkit.SceneSystem.SceneInfo[] Microsoft.MixedReality.Toolkit.SceneSystem.MixedRealitySceneSystem_SceneContentTracker::get_SortedContentScenes()
+extern void SceneContentTracker_get_SortedContentScenes_m7F1EAB1B13A5FB545FA65D038B08F34FBE3BACF6 (void);
+// 0x00000050 Microsoft.MixedReality.Toolkit.SceneSystem.SceneInfo[] Microsoft.MixedReality.Toolkit.SceneSystem.MixedRealitySceneSystem_SceneContentTracker::get_SortedLightingScenes()
+extern void SceneContentTracker_get_SortedLightingScenes_m87F7164CCC24334532FCECEA4314FCA10D391CED (void);
+// 0x00000051 System.Boolean Microsoft.MixedReality.Toolkit.SceneSystem.MixedRealitySceneSystem_SceneContentTracker::get_PrevContentExists()
+extern void SceneContentTracker_get_PrevContentExists_mB50EBF7BEE8F9A469214679CE013EBDF8A6F2F1D (void);
+// 0x00000052 System.Boolean Microsoft.MixedReality.Toolkit.SceneSystem.MixedRealitySceneSystem_SceneContentTracker::get_NextContentExists()
+extern void SceneContentTracker_get_NextContentExists_m12C433947435BEE33D2F8EEB29E63F846BE6F5DA (void);
+// 0x00000053 System.Void Microsoft.MixedReality.Toolkit.SceneSystem.MixedRealitySceneSystem_SceneContentTracker::CacheSortedContent()
+extern void SceneContentTracker_CacheSortedContent_m2DB45AAC6DC8D811FA447D1D73B76C2EA3C3FF81 (void);
+// 0x00000054 System.Boolean Microsoft.MixedReality.Toolkit.SceneSystem.MixedRealitySceneSystem_SceneContentTracker::GetNextContent(System.Boolean,System.String&)
+extern void SceneContentTracker_GetNextContent_m4ADE3AF85F908F475F377DB648A9F0B43B9D19EF (void);
+// 0x00000055 System.Boolean Microsoft.MixedReality.Toolkit.SceneSystem.MixedRealitySceneSystem_SceneContentTracker::GetPrevContent(System.Boolean,System.String&)
+extern void SceneContentTracker_GetPrevContent_m425D7F57268C08F563941D72B301D7BF5FFEED29 (void);
+// 0x00000056 System.Void Microsoft.MixedReality.Toolkit.SceneSystem.MixedRealitySceneSystem_SceneContentTracker::RefreshLoadedContent()
+extern void SceneContentTracker_RefreshLoadedContent_m22C3B936E14D739A4B0DD1D0A5E0E81BF7DFD03D (void);
+// 0x00000057 System.Void Microsoft.MixedReality.Toolkit.SceneSystem.MixedRealitySceneSystem_SceneContentTracker::.cctor()
+extern void SceneContentTracker__cctor_m7B28D179576864899857325A0F3D97B4566E0BBC (void);
+// 0x00000058 System.Void Microsoft.MixedReality.Toolkit.SceneSystem.MixedRealitySceneSystem_SceneContentTracker_<>c::.cctor()
+extern void U3CU3Ec__cctor_m26C3C6F3EBDF42A09FEB95BA96D50328C856D66E (void);
+// 0x00000059 System.Void Microsoft.MixedReality.Toolkit.SceneSystem.MixedRealitySceneSystem_SceneContentTracker_<>c::.ctor()
+extern void U3CU3Ec__ctor_m8EF87EA5323C1780E6A4F9994FDFF0560057DD92 (void);
+// 0x0000005A System.Int32 Microsoft.MixedReality.Toolkit.SceneSystem.MixedRealitySceneSystem_SceneContentTracker_<>c::<CacheSortedContent>b__18_0(Microsoft.MixedReality.Toolkit.SceneSystem.SceneInfo)
+extern void U3CU3Ec_U3CCacheSortedContentU3Eb__18_0_mF8F866BC71C307A1B41FCE2E9BFF2416935E9A2C (void);
+// 0x0000005B System.Int32 Microsoft.MixedReality.Toolkit.SceneSystem.MixedRealitySceneSystem_SceneContentTracker_<>c::<CacheSortedContent>b__18_1(Microsoft.MixedReality.Toolkit.SceneSystem.SceneInfo)
+extern void U3CU3Ec_U3CCacheSortedContentU3Eb__18_1_mA6DCE54C2FF6FF8170AE528F3E82AABD9E433C1A (void);
+// 0x0000005C System.Void Microsoft.MixedReality.Toolkit.SceneSystem.MixedRealitySceneSystem_SceneLightingExecutor::StartTransition(Microsoft.MixedReality.Toolkit.SceneSystem.RuntimeLightingSettings,Microsoft.MixedReality.Toolkit.SceneSystem.RuntimeRenderSettings,Microsoft.MixedReality.Toolkit.SceneSystem.RuntimeSunlightSettings,Microsoft.MixedReality.Toolkit.SceneSystem.LightingSceneTransitionType,System.Single)
+extern void SceneLightingExecutor_StartTransition_mE3CC2E45A7D1CFBFD5710BBD5E12B98FC2359DA2 (void);
+// 0x0000005D System.Void Microsoft.MixedReality.Toolkit.SceneSystem.MixedRealitySceneSystem_SceneLightingExecutor::UpdateTransition(System.Single)
+extern void SceneLightingExecutor_UpdateTransition_mD8F81FB41DCE7E34AB682AA97580D2BF5C00F1D7 (void);
+// 0x0000005E System.Void Microsoft.MixedReality.Toolkit.SceneSystem.MixedRealitySceneSystem_SceneLightingExecutor::ApplySettings()
+extern void SceneLightingExecutor_ApplySettings_mA07D2D0C6EA7F81A3AA3F51129CB8F431C3FA24A (void);
+// 0x0000005F System.Void Microsoft.MixedReality.Toolkit.SceneSystem.MixedRealitySceneSystem_SceneLightingExecutor::FindOrCreateSunlight()
+extern void SceneLightingExecutor_FindOrCreateSunlight_m0E92BBA8BCC4952D0AC9B90E5DED0D5202548A9A (void);
+// 0x00000060 System.Void Microsoft.MixedReality.Toolkit.SceneSystem.MixedRealitySceneSystem_SceneLightingExecutor::DisableSunlight()
+extern void SceneLightingExecutor_DisableSunlight_mB1B19C7BADCA3C9F0E9762170FD372352FF37BE3 (void);
+// 0x00000061 System.Void Microsoft.MixedReality.Toolkit.SceneSystem.MixedRealitySceneSystem_SceneLightingExecutor::.ctor()
+extern void SceneLightingExecutor__ctor_m725ED62971D3FAD1FA8700F680AFA811991BCC45 (void);
+// 0x00000062 System.Void Microsoft.MixedReality.Toolkit.SceneSystem.MixedRealitySceneSystem_SceneLightingExecutor::.cctor()
+extern void SceneLightingExecutor__cctor_m1A503FB91995EA5289C08986A4BC81FABFB8ADD5 (void);
+// 0x00000063 System.Void Microsoft.MixedReality.Toolkit.SceneSystem.MixedRealitySceneSystem_<LoadNextContent>d__105::MoveNext()
+extern void U3CLoadNextContentU3Ed__105_MoveNext_m6F89F6E68AD32562E967D00874639EE6809CDA7A_AdjustorThunk (void);
+// 0x00000064 System.Void Microsoft.MixedReality.Toolkit.SceneSystem.MixedRealitySceneSystem_<LoadNextContent>d__105::SetStateMachine(System.Runtime.CompilerServices.IAsyncStateMachine)
+extern void U3CLoadNextContentU3Ed__105_SetStateMachine_mED8D3A642723A6FDDC1601DC538152B15E06736A_AdjustorThunk (void);
+// 0x00000065 System.Void Microsoft.MixedReality.Toolkit.SceneSystem.MixedRealitySceneSystem_<LoadPrevContent>d__107::MoveNext()
+extern void U3CLoadPrevContentU3Ed__107_MoveNext_m20105D28CD255BDD77E9F58BE5CE246C37DD7AEA_AdjustorThunk (void);
+// 0x00000066 System.Void Microsoft.MixedReality.Toolkit.SceneSystem.MixedRealitySceneSystem_<LoadPrevContent>d__107::SetStateMachine(System.Runtime.CompilerServices.IAsyncStateMachine)
+extern void U3CLoadPrevContentU3Ed__107_SetStateMachine_m95A2B50E4A06099721B20EA6B4EBD9C19942E683_AdjustorThunk (void);
+// 0x00000067 System.Void Microsoft.MixedReality.Toolkit.SceneSystem.MixedRealitySceneSystem_<LoadContent>d__108::MoveNext()
+extern void U3CLoadContentU3Ed__108_MoveNext_m0841C90DDDBB01149DECA0B6B848134B5BD80A1F_AdjustorThunk (void);
+// 0x00000068 System.Void Microsoft.MixedReality.Toolkit.SceneSystem.MixedRealitySceneSystem_<LoadContent>d__108::SetStateMachine(System.Runtime.CompilerServices.IAsyncStateMachine)
+extern void U3CLoadContentU3Ed__108_SetStateMachine_mD7F1A4B80C13CA5DF31B2B68625BE45508A98B3D_AdjustorThunk (void);
+// 0x00000069 System.Void Microsoft.MixedReality.Toolkit.SceneSystem.MixedRealitySceneSystem_<UnloadContent>d__109::MoveNext()
+extern void U3CUnloadContentU3Ed__109_MoveNext_mD95883BF50A8CF3EAF8393F7E8984365AA673407_AdjustorThunk (void);
+// 0x0000006A System.Void Microsoft.MixedReality.Toolkit.SceneSystem.MixedRealitySceneSystem_<UnloadContent>d__109::SetStateMachine(System.Runtime.CompilerServices.IAsyncStateMachine)
+extern void U3CUnloadContentU3Ed__109_SetStateMachine_mDBFC294C30D5E7090EA7C19D99038B6613C59845_AdjustorThunk (void);
+// 0x0000006B System.Void Microsoft.MixedReality.Toolkit.SceneSystem.MixedRealitySceneSystem_<LoadContentByTag>d__111::MoveNext()
+extern void U3CLoadContentByTagU3Ed__111_MoveNext_mA76FCD737DE0DFCC6F3EAB6013C8C5F1D85A49D0_AdjustorThunk (void);
+// 0x0000006C System.Void Microsoft.MixedReality.Toolkit.SceneSystem.MixedRealitySceneSystem_<LoadContentByTag>d__111::SetStateMachine(System.Runtime.CompilerServices.IAsyncStateMachine)
+extern void U3CLoadContentByTagU3Ed__111_SetStateMachine_mA72F2EFBBABC88C8EF7360B8DF1722AF9DE04ABF_AdjustorThunk (void);
+// 0x0000006D System.Void Microsoft.MixedReality.Toolkit.SceneSystem.MixedRealitySceneSystem_<UnloadContentByTag>d__113::MoveNext()
+extern void U3CUnloadContentByTagU3Ed__113_MoveNext_mC48F3DDD2BF7F77283948396042D3F55FBD8FA21_AdjustorThunk (void);
+// 0x0000006E System.Void Microsoft.MixedReality.Toolkit.SceneSystem.MixedRealitySceneSystem_<UnloadContentByTag>d__113::SetStateMachine(System.Runtime.CompilerServices.IAsyncStateMachine)
+extern void U3CUnloadContentByTagU3Ed__113_SetStateMachine_mB6ED1E701BBEA68B32ED2B0FFECD491155D53B19_AdjustorThunk (void);
+// 0x0000006F System.Void Microsoft.MixedReality.Toolkit.SceneSystem.MixedRealitySceneSystem_<LoadContent>d__115::MoveNext()
+extern void U3CLoadContentU3Ed__115_MoveNext_mDDE558C695E44ACD4D671D169A20D1CDEC803659_AdjustorThunk (void);
+// 0x00000070 System.Void Microsoft.MixedReality.Toolkit.SceneSystem.MixedRealitySceneSystem_<LoadContent>d__115::SetStateMachine(System.Runtime.CompilerServices.IAsyncStateMachine)
+extern void U3CLoadContentU3Ed__115_SetStateMachine_m0E70759EB0E0F80D7BE556574D19E4FA17B20520_AdjustorThunk (void);
+// 0x00000071 System.Void Microsoft.MixedReality.Toolkit.SceneSystem.MixedRealitySceneSystem_<UnloadContent>d__117::MoveNext()
+extern void U3CUnloadContentU3Ed__117_MoveNext_m6AC2E1C00652B59D89977634BE97034694DD041D_AdjustorThunk (void);
+// 0x00000072 System.Void Microsoft.MixedReality.Toolkit.SceneSystem.MixedRealitySceneSystem_<UnloadContent>d__117::SetStateMachine(System.Runtime.CompilerServices.IAsyncStateMachine)
+extern void U3CUnloadContentU3Ed__117_SetStateMachine_m126B8A1B5D3534D3C0B136E5FC7DB487E2F35584_AdjustorThunk (void);
+// 0x00000073 System.Void Microsoft.MixedReality.Toolkit.SceneSystem.MixedRealitySceneSystem_<SetLightingScene>d__121::MoveNext()
+extern void U3CSetLightingSceneU3Ed__121_MoveNext_m41590A0D312590AD9CC032B8FBC6A515B73FBB07_AdjustorThunk (void);
+// 0x00000074 System.Void Microsoft.MixedReality.Toolkit.SceneSystem.MixedRealitySceneSystem_<SetLightingScene>d__121::SetStateMachine(System.Runtime.CompilerServices.IAsyncStateMachine)
+extern void U3CSetLightingSceneU3Ed__121_SetStateMachine_m0931F6893AF5F7DF8E848E08578ED005D7F0F56C_AdjustorThunk (void);
+// 0x00000075 System.Void Microsoft.MixedReality.Toolkit.SceneSystem.MixedRealitySceneSystem_<SetManagerScene>d__123::MoveNext()
+extern void U3CSetManagerSceneU3Ed__123_MoveNext_mCC8E4BCC23483E741ECCEA119C687E1320D9872F_AdjustorThunk (void);
+// 0x00000076 System.Void Microsoft.MixedReality.Toolkit.SceneSystem.MixedRealitySceneSystem_<SetManagerScene>d__123::SetStateMachine(System.Runtime.CompilerServices.IAsyncStateMachine)
+extern void U3CSetManagerSceneU3Ed__123_SetStateMachine_m282E7DDDF42B07AE34A40D5CD0B85F06A9326D6B_AdjustorThunk (void);
+// 0x00000077 System.Void Microsoft.MixedReality.Toolkit.SceneSystem.MixedRealitySceneSystem_<LoadScenesInternal>d__125::MoveNext()
+extern void U3CLoadScenesInternalU3Ed__125_MoveNext_m1ED137AFB6D2EFED1324610F089AE9AD725B8E1B_AdjustorThunk (void);
+// 0x00000078 System.Void Microsoft.MixedReality.Toolkit.SceneSystem.MixedRealitySceneSystem_<LoadScenesInternal>d__125::SetStateMachine(System.Runtime.CompilerServices.IAsyncStateMachine)
+extern void U3CLoadScenesInternalU3Ed__125_SetStateMachine_m15DF27EA942263F0B0BCF17E4A8607ABA9C2A62C_AdjustorThunk (void);
+// 0x00000079 System.Void Microsoft.MixedReality.Toolkit.SceneSystem.MixedRealitySceneSystem_<UnloadScenesInternal>d__127::MoveNext()
+extern void U3CUnloadScenesInternalU3Ed__127_MoveNext_m2B306BDD1EDBE73E12F55A070AAFF57CD6463D3D_AdjustorThunk (void);
+// 0x0000007A System.Void Microsoft.MixedReality.Toolkit.SceneSystem.MixedRealitySceneSystem_<UnloadScenesInternal>d__127::SetStateMachine(System.Runtime.CompilerServices.IAsyncStateMachine)
+extern void U3CUnloadScenesInternalU3Ed__127_SetStateMachine_m999350C0BAC0703007E795843A608E3B33A5CC4E_AdjustorThunk (void);
+// 0x0000007B System.Void Microsoft.MixedReality.Toolkit.SceneSystem.MixedRealitySceneSystem_<GetScenes>d__138::.ctor(System.Int32)
+extern void U3CGetScenesU3Ed__138__ctor_m33511CD4019577026A5AF24C4CB579A6B427F51C (void);
+// 0x0000007C System.Void Microsoft.MixedReality.Toolkit.SceneSystem.MixedRealitySceneSystem_<GetScenes>d__138::System.IDisposable.Dispose()
+extern void U3CGetScenesU3Ed__138_System_IDisposable_Dispose_m4F304615F0D94840F82F05B77F603ECBAAD23CB7 (void);
+// 0x0000007D System.Boolean Microsoft.MixedReality.Toolkit.SceneSystem.MixedRealitySceneSystem_<GetScenes>d__138::MoveNext()
+extern void U3CGetScenesU3Ed__138_MoveNext_m242210069E3D1BC1D29E2F131570FF1EFB183BAD (void);
+// 0x0000007E System.Void Microsoft.MixedReality.Toolkit.SceneSystem.MixedRealitySceneSystem_<GetScenes>d__138::<>m__Finally1()
+extern void U3CGetScenesU3Ed__138_U3CU3Em__Finally1_mF82DF486E796F4F6A4D29F5CEF4B0DBFFB188E7F (void);
+// 0x0000007F UnityEngine.SceneManagement.Scene Microsoft.MixedReality.Toolkit.SceneSystem.MixedRealitySceneSystem_<GetScenes>d__138::System.Collections.Generic.IEnumerator<UnityEngine.SceneManagement.Scene>.get_Current()
+extern void U3CGetScenesU3Ed__138_System_Collections_Generic_IEnumeratorU3CUnityEngine_SceneManagement_SceneU3E_get_Current_mDD7B8C4E6F1DF0481400F7C4781ACB14164B7BC7 (void);
+// 0x00000080 System.Void Microsoft.MixedReality.Toolkit.SceneSystem.MixedRealitySceneSystem_<GetScenes>d__138::System.Collections.IEnumerator.Reset()
+extern void U3CGetScenesU3Ed__138_System_Collections_IEnumerator_Reset_m0E8266F31DC43640DF513B624A2CA712F1AB87CF (void);
+// 0x00000081 System.Object Microsoft.MixedReality.Toolkit.SceneSystem.MixedRealitySceneSystem_<GetScenes>d__138::System.Collections.IEnumerator.get_Current()
+extern void U3CGetScenesU3Ed__138_System_Collections_IEnumerator_get_Current_m2744A2C854E83FBF2D9CA017EBD392B83A94CF2B (void);
+// 0x00000082 System.Collections.Generic.IEnumerator`1<UnityEngine.SceneManagement.Scene> Microsoft.MixedReality.Toolkit.SceneSystem.MixedRealitySceneSystem_<GetScenes>d__138::System.Collections.Generic.IEnumerable<UnityEngine.SceneManagement.Scene>.GetEnumerator()
+extern void U3CGetScenesU3Ed__138_System_Collections_Generic_IEnumerableU3CUnityEngine_SceneManagement_SceneU3E_GetEnumerator_m1D8356EBABA4168AFE684217578A464836F420BF (void);
+// 0x00000083 System.Collections.IEnumerator Microsoft.MixedReality.Toolkit.SceneSystem.MixedRealitySceneSystem_<GetScenes>d__138::System.Collections.IEnumerable.GetEnumerator()
+extern void U3CGetScenesU3Ed__138_System_Collections_IEnumerable_GetEnumerator_m8DDD23F675D9EFC5C7CF562DEE4AB38003C6B1C9 (void);
+static Il2CppMethodPointer s_methodPointers[131] = 
+{
+	MixedRealitySceneSystem__ctor_m59A0C4B19A4DE7C588F0A8B61637B19C12DE266B,
+	MixedRealitySceneSystem__ctor_m269CD71964497564EC9250DBB616DD460B497736,
+	MixedRealitySceneSystem_get_Profile_m50B0C0D023B01CA22A6967E2D45D96E9EF21B813,
+	MixedRealitySceneSystem_get_Name_mBAE40D4A0F4720CF21703B3A19E864F764EE4B05,
+	MixedRealitySceneSystem_set_Name_m07D9F2BC37B70A7F664B0AC1F378683A0D78FCB1,
+	MixedRealitySceneSystem_get_OnWillLoadContent_m06074F8194796833278CE0103661CA8FE72BAE7A,
+	MixedRealitySceneSystem_set_OnWillLoadContent_m448BF1A7CCA5A509B56542C5E23FC623BF4943A6,
+	MixedRealitySceneSystem_get_OnContentLoaded_mC806CA97CB4385EEB5D098AED9C0EF6199E99063,
+	MixedRealitySceneSystem_set_OnContentLoaded_mC2DE5C4C8CC278C6A422719EEA0DC9B28FE4BB1C,
+	MixedRealitySceneSystem_get_OnWillUnloadContent_mB187177695501CA4FBBDC6C8F4726B2D8D8E86E8,
+	MixedRealitySceneSystem_set_OnWillUnloadContent_m83AE818B81DA0B206B4BA6D6A3B466C272790F03,
+	MixedRealitySceneSystem_get_OnContentUnloaded_m1E326A924F120D88168182FA5CFC37053381F98D,
+	MixedRealitySceneSystem_set_OnContentUnloaded_m01A2351F2A99AABEE43E698F76436575356C7036,
+	MixedRealitySceneSystem_get_OnWillLoadLighting_m9D1414CB1FD7CA6F44BF95BCF835FFE11E8BC6BC,
+	MixedRealitySceneSystem_set_OnWillLoadLighting_m5CD5AD8BCB8D44AB859220CAD2241FCD0F6079C0,
+	MixedRealitySceneSystem_get_OnLightingLoaded_m079A52C90368A98DF2FD7AB5C88C826E60E9D6BE,
+	MixedRealitySceneSystem_set_OnLightingLoaded_m7465A0EE8B2228E016A4375BFB20F6C9E5EB3C91,
+	MixedRealitySceneSystem_get_OnWillUnloadLighting_mAD3EEAFA85BBCBDD0862F7D3CAD54B6043C10257,
+	MixedRealitySceneSystem_set_OnWillUnloadLighting_mC048C9CA60AB2A83C733DAB6DC00E40394E4F576,
+	MixedRealitySceneSystem_get_OnLightingUnloaded_mA8D408C8EACD1E4840AACF8FA4E79074A1F37931,
+	MixedRealitySceneSystem_set_OnLightingUnloaded_m12470FC6C1ED6A6856F9C84AB003AAF28416ECEB,
+	MixedRealitySceneSystem_get_OnWillLoadScene_m18933FF127D39B3BB8582F5B4817A9AD415D2CC8,
+	MixedRealitySceneSystem_set_OnWillLoadScene_m2548A197D7E4AD30E0FA61D6A146649852C3F6B4,
+	MixedRealitySceneSystem_get_OnSceneLoaded_m0EBE4AA276A77C3EFA15636A5B67F240B7DF581A,
+	MixedRealitySceneSystem_set_OnSceneLoaded_m019D3874D4D5CE7762372D529A62DB216C9B8C02,
+	MixedRealitySceneSystem_get_OnWillUnloadScene_m1B9A4B60978BC59EA011E1F16FD4066AD05015D8,
+	MixedRealitySceneSystem_set_OnWillUnloadScene_mDF1576F8DD0B41A26CD57B1110870D24E049BB58,
+	MixedRealitySceneSystem_get_OnSceneUnloaded_m00F47DD827EC6BA659F606B9716B7C262031154A,
+	MixedRealitySceneSystem_set_OnSceneUnloaded_m8C6C1BCCE91DC918C4069C9FFCFE1394DB26DBDE,
+	MixedRealitySceneSystem_get_SceneOperationInProgress_mD596AF58CE55CB3729D41CD58E4D7069D7D16284,
+	MixedRealitySceneSystem_set_SceneOperationInProgress_m6034D3CFCFB9136DD9ED82F0BAF2ED5A11A7B247,
+	MixedRealitySceneSystem_get_SceneOperationProgress_m94FB87AA86851E1AB33E31279DD057DFA83887BF,
+	MixedRealitySceneSystem_set_SceneOperationProgress_mA56602B86A69F93195366FC2D5BCFD0801F79882,
+	MixedRealitySceneSystem_get_LightingOperationInProgress_m9A09AE54B23716C671030207145A5FDA780BB46C,
+	MixedRealitySceneSystem_set_LightingOperationInProgress_m10F78F2CB2FAE8B56EF3A91151CB885DE026BEF4,
+	MixedRealitySceneSystem_get_LightingOperationProgress_m4FB836CFE24DDDD5E1C6F4CD2441C352459EDBF8,
+	MixedRealitySceneSystem_set_LightingOperationProgress_mD9190614F7A6EC89A62304EDDDA2CBD52137DC03,
+	MixedRealitySceneSystem_get_ActiveLightingScene_m6059609B2E81093A78DA0A65D3C9E53A661DC8E1,
+	MixedRealitySceneSystem_set_ActiveLightingScene_m43375AD376B3F5CDB0242BA62F8E22AE33D4326B,
+	MixedRealitySceneSystem_get_WaitingToProceed_mA4DADF460836FD17709FC467B6DE32D33EB8A6A3,
+	MixedRealitySceneSystem_set_WaitingToProceed_m7F48FB5A6755B21303B0330B13B9F3B55E73B3B6,
+	MixedRealitySceneSystem_get_PrevContentExists_m90A05A50D64097442670A89DBF3D5597E24F7403,
+	MixedRealitySceneSystem_get_NextContentExists_m232A017592CDBE31CACF63AE791BE0946BF3C6CA,
+	MixedRealitySceneSystem_get_ContentSceneNames_m74B1DF0ED24D8A793214A778D02A6F6EDCE16EF9,
+	MixedRealitySceneSystem_get_SourceId_m9E5E1AEAFB7CCEF112ACB9922C24994858DECF12,
+	MixedRealitySceneSystem_get_SourceName_mA65B25226EDC0D9CCE9D3111B664DF877291FD75,
+	MixedRealitySceneSystem_Initialize_mE7A188ABAB191151E4696652E9E7C8AD322AAF6C,
+	MixedRealitySceneSystem_Enable_mD722B77A4763AF1AF2DAB184459780D60B60A153,
+	MixedRealitySceneSystem_Disable_m7B5CEB9758C5A9C6CE403282B2EC7C1860F63CE9,
+	MixedRealitySceneSystem_Destroy_mF7CB0A7FCEC467B3FF2743576DDB53466D75AFE5,
+	MixedRealitySceneSystem_Update_mADA575936B23F39D9B1D2F7FFA1869E4270ACD38,
+	MixedRealitySceneSystem_LoadNextContent_m32568ED2ED9002DDF2BE295E13E67C524A0CD147,
+	MixedRealitySceneSystem_LoadPrevContent_m58E9F247C4A7AC10FC1F97D7A235EA59659C9C66,
+	MixedRealitySceneSystem_LoadContent_m5E4603EC5354B6DEF6E53B364FC686A6A3E737FB,
+	MixedRealitySceneSystem_UnloadContent_m0ED97192272C87302ED4035BEB5CF6738B4037BC,
+	MixedRealitySceneSystem_LoadContentByTag_mC04549B98583A622E5B9E7164AF5ED626C95B867,
+	MixedRealitySceneSystem_UnloadContentByTag_mD902606A2D0F61888C5AD1AAE52CD0ABEEB5E913,
+	MixedRealitySceneSystem_LoadContent_m6356668462AE5151092A697AE6ABCB6481BD416D,
+	MixedRealitySceneSystem_UnloadContent_m332DEEF01018D3A3A7AEE2F98E6713B42FFEC2C5,
+	MixedRealitySceneSystem_IsContentLoaded_m1CE3B2248CC0CD5A9001AD66CCCE241FA91F2515,
+	MixedRealitySceneSystem_SetLightingScene_m43716CB2F0B1F9F6E01E1F389F6CF175ABCCE7EB,
+	MixedRealitySceneSystem_SetManagerScene_m99B96EB5A3BD08333B6FAE3C47AD05415884AF05,
+	MixedRealitySceneSystem_LoadScenesInternal_m7402F8BE483C6A02A1C16AB391D420AE99EB3306,
+	MixedRealitySceneSystem_UnloadScenesInternal_m0687587E87213119ACC9D6E4B7D2C69605FD90C1,
+	MixedRealitySceneSystem_SetSceneOpProgress_m825EE332703DF0F52E7D287448B828EFE78775E0,
+	MixedRealitySceneSystem_CanSceneOpProceed_mE41C6683B30EB5043B614EC4A5505EC327F1C58B,
+	MixedRealitySceneSystem_InvokeLoadedActions_m6842ACE85D83072F518C70818773213BF9E165C3,
+	MixedRealitySceneSystem_InvokeWillLoadActions_mFD2A0883FFCC9162A70644F5FAD221DF0E9C54F0,
+	MixedRealitySceneSystem_InvokeWillUnloadActions_mF7697C6EEEA68A9E481025466567156D4FE08FDC,
+	MixedRealitySceneSystem_InvokeUnloadedActions_m3A0139A981CFB2BED1593E0F14A8CB735863FE0C,
+	MixedRealitySceneSystem_GetScenes_m616F54BC46ACACBB3CC1D65FD10B4CA84B2D2AEB,
+	MixedRealitySceneSystem_GetScene_m83FED6C0731FBBCD82F8D270F817520DBE73D7D4,
+	MixedRealitySceneSystem_GetLoadedContentScenes_m31BE21E65ACA8D1A54D126A94F066BD9584EACFC,
+	MixedRealitySceneSystem_System_Collections_IEqualityComparer_Equals_mF8A02CD2C4E97B1AD1E3390F69AEE061E54B45C9,
+	MixedRealitySceneSystem_System_Collections_IEqualityComparer_GetHashCode_mD777FC99E7AC5C331549F6C0DB0A42F3465F6198,
+	MixedRealitySceneSystem__cctor_m14B1C5AFF73F28E451F829AAF4EEEF1F27A12B1B,
+	SceneContentTracker__ctor_m280879C372C6E471341660D7C1DB97BAE522412C,
+	SceneContentTracker_get_ContentSceneNames_mE5CDD7E26CEC8B8C59F6276C25F16B67B8982056,
+	SceneContentTracker_get_SortedContentScenes_m7F1EAB1B13A5FB545FA65D038B08F34FBE3BACF6,
+	SceneContentTracker_get_SortedLightingScenes_m87F7164CCC24334532FCECEA4314FCA10D391CED,
+	SceneContentTracker_get_PrevContentExists_mB50EBF7BEE8F9A469214679CE013EBDF8A6F2F1D,
+	SceneContentTracker_get_NextContentExists_m12C433947435BEE33D2F8EEB29E63F846BE6F5DA,
+	SceneContentTracker_CacheSortedContent_m2DB45AAC6DC8D811FA447D1D73B76C2EA3C3FF81,
+	SceneContentTracker_GetNextContent_m4ADE3AF85F908F475F377DB648A9F0B43B9D19EF,
+	SceneContentTracker_GetPrevContent_m425D7F57268C08F563941D72B301D7BF5FFEED29,
+	SceneContentTracker_RefreshLoadedContent_m22C3B936E14D739A4B0DD1D0A5E0E81BF7DFD03D,
+	SceneContentTracker__cctor_m7B28D179576864899857325A0F3D97B4566E0BBC,
+	U3CU3Ec__cctor_m26C3C6F3EBDF42A09FEB95BA96D50328C856D66E,
+	U3CU3Ec__ctor_m8EF87EA5323C1780E6A4F9994FDFF0560057DD92,
+	U3CU3Ec_U3CCacheSortedContentU3Eb__18_0_mF8F866BC71C307A1B41FCE2E9BFF2416935E9A2C,
+	U3CU3Ec_U3CCacheSortedContentU3Eb__18_1_mA6DCE54C2FF6FF8170AE528F3E82AABD9E433C1A,
+	SceneLightingExecutor_StartTransition_mE3CC2E45A7D1CFBFD5710BBD5E12B98FC2359DA2,
+	SceneLightingExecutor_UpdateTransition_mD8F81FB41DCE7E34AB682AA97580D2BF5C00F1D7,
+	SceneLightingExecutor_ApplySettings_mA07D2D0C6EA7F81A3AA3F51129CB8F431C3FA24A,
+	SceneLightingExecutor_FindOrCreateSunlight_m0E92BBA8BCC4952D0AC9B90E5DED0D5202548A9A,
+	SceneLightingExecutor_DisableSunlight_mB1B19C7BADCA3C9F0E9762170FD372352FF37BE3,
+	SceneLightingExecutor__ctor_m725ED62971D3FAD1FA8700F680AFA811991BCC45,
+	SceneLightingExecutor__cctor_m1A503FB91995EA5289C08986A4BC81FABFB8ADD5,
+	U3CLoadNextContentU3Ed__105_MoveNext_m6F89F6E68AD32562E967D00874639EE6809CDA7A_AdjustorThunk,
+	U3CLoadNextContentU3Ed__105_SetStateMachine_mED8D3A642723A6FDDC1601DC538152B15E06736A_AdjustorThunk,
+	U3CLoadPrevContentU3Ed__107_MoveNext_m20105D28CD255BDD77E9F58BE5CE246C37DD7AEA_AdjustorThunk,
+	U3CLoadPrevContentU3Ed__107_SetStateMachine_m95A2B50E4A06099721B20EA6B4EBD9C19942E683_AdjustorThunk,
+	U3CLoadContentU3Ed__108_MoveNext_m0841C90DDDBB01149DECA0B6B848134B5BD80A1F_AdjustorThunk,
+	U3CLoadContentU3Ed__108_SetStateMachine_mD7F1A4B80C13CA5DF31B2B68625BE45508A98B3D_AdjustorThunk,
+	U3CUnloadContentU3Ed__109_MoveNext_mD95883BF50A8CF3EAF8393F7E8984365AA673407_AdjustorThunk,
+	U3CUnloadContentU3Ed__109_SetStateMachine_mDBFC294C30D5E7090EA7C19D99038B6613C59845_AdjustorThunk,
+	U3CLoadContentByTagU3Ed__111_MoveNext_mA76FCD737DE0DFCC6F3EAB6013C8C5F1D85A49D0_AdjustorThunk,
+	U3CLoadContentByTagU3Ed__111_SetStateMachine_mA72F2EFBBABC88C8EF7360B8DF1722AF9DE04ABF_AdjustorThunk,
+	U3CUnloadContentByTagU3Ed__113_MoveNext_mC48F3DDD2BF7F77283948396042D3F55FBD8FA21_AdjustorThunk,
+	U3CUnloadContentByTagU3Ed__113_SetStateMachine_mB6ED1E701BBEA68B32ED2B0FFECD491155D53B19_AdjustorThunk,
+	U3CLoadContentU3Ed__115_MoveNext_mDDE558C695E44ACD4D671D169A20D1CDEC803659_AdjustorThunk,
+	U3CLoadContentU3Ed__115_SetStateMachine_m0E70759EB0E0F80D7BE556574D19E4FA17B20520_AdjustorThunk,
+	U3CUnloadContentU3Ed__117_MoveNext_m6AC2E1C00652B59D89977634BE97034694DD041D_AdjustorThunk,
+	U3CUnloadContentU3Ed__117_SetStateMachine_m126B8A1B5D3534D3C0B136E5FC7DB487E2F35584_AdjustorThunk,
+	U3CSetLightingSceneU3Ed__121_MoveNext_m41590A0D312590AD9CC032B8FBC6A515B73FBB07_AdjustorThunk,
+	U3CSetLightingSceneU3Ed__121_SetStateMachine_m0931F6893AF5F7DF8E848E08578ED005D7F0F56C_AdjustorThunk,
+	U3CSetManagerSceneU3Ed__123_MoveNext_mCC8E4BCC23483E741ECCEA119C687E1320D9872F_AdjustorThunk,
+	U3CSetManagerSceneU3Ed__123_SetStateMachine_m282E7DDDF42B07AE34A40D5CD0B85F06A9326D6B_AdjustorThunk,
+	U3CLoadScenesInternalU3Ed__125_MoveNext_m1ED137AFB6D2EFED1324610F089AE9AD725B8E1B_AdjustorThunk,
+	U3CLoadScenesInternalU3Ed__125_SetStateMachine_m15DF27EA942263F0B0BCF17E4A8607ABA9C2A62C_AdjustorThunk,
+	U3CUnloadScenesInternalU3Ed__127_MoveNext_m2B306BDD1EDBE73E12F55A070AAFF57CD6463D3D_AdjustorThunk,
+	U3CUnloadScenesInternalU3Ed__127_SetStateMachine_m999350C0BAC0703007E795843A608E3B33A5CC4E_AdjustorThunk,
+	U3CGetScenesU3Ed__138__ctor_m33511CD4019577026A5AF24C4CB579A6B427F51C,
+	U3CGetScenesU3Ed__138_System_IDisposable_Dispose_m4F304615F0D94840F82F05B77F603ECBAAD23CB7,
+	U3CGetScenesU3Ed__138_MoveNext_m242210069E3D1BC1D29E2F131570FF1EFB183BAD,
+	U3CGetScenesU3Ed__138_U3CU3Em__Finally1_mF82DF486E796F4F6A4D29F5CEF4B0DBFFB188E7F,
+	U3CGetScenesU3Ed__138_System_Collections_Generic_IEnumeratorU3CUnityEngine_SceneManagement_SceneU3E_get_Current_mDD7B8C4E6F1DF0481400F7C4781ACB14164B7BC7,
+	U3CGetScenesU3Ed__138_System_Collections_IEnumerator_Reset_m0E8266F31DC43640DF513B624A2CA712F1AB87CF,
+	U3CGetScenesU3Ed__138_System_Collections_IEnumerator_get_Current_m2744A2C854E83FBF2D9CA017EBD392B83A94CF2B,
+	U3CGetScenesU3Ed__138_System_Collections_Generic_IEnumerableU3CUnityEngine_SceneManagement_SceneU3E_GetEnumerator_m1D8356EBABA4168AFE684217578A464836F420BF,
+	U3CGetScenesU3Ed__138_System_Collections_IEnumerable_GetEnumerator_m8DDD23F675D9EFC5C7CF562DEE4AB38003C6B1C9,
+};
+static const int32_t s_InvokerIndices[131] = 
+{
+	27,
+	26,
+	14,
+	14,
+	26,
+	14,
+	26,
+	14,
+	26,
+	14,
+	26,
+	14,
+	26,
+	14,
+	26,
+	14,
+	26,
+	14,
+	26,
+	14,
+	26,
+	14,
+	26,
+	14,
+	26,
+	14,
+	26,
+	14,
+	26,
+	95,
+	31,
+	690,
+	298,
+	95,
+	31,
+	690,
+	298,
+	14,
+	26,
+	95,
+	31,
+	95,
+	95,
+	14,
+	10,
+	14,
+	23,
+	23,
+	23,
+	23,
+	23,
+	1980,
+	1980,
+	442,
+	28,
+	442,
+	28,
+	442,
+	28,
+	9,
+	1565,
+	26,
+	2555,
+	2556,
+	2557,
+	30,
+	143,
+	143,
+	143,
+	143,
+	28,
+	1981,
+	805,
+	122,
+	123,
+	3,
+	26,
+	14,
+	14,
+	14,
+	95,
+	95,
+	23,
+	2342,
+	2342,
+	23,
+	3,
+	3,
+	23,
+	2558,
+	2558,
+	2559,
+	298,
+	23,
+	23,
+	23,
+	23,
+	3,
+	23,
+	26,
+	23,
+	26,
+	23,
+	26,
+	23,
+	26,
+	23,
+	26,
+	23,
+	26,
+	23,
+	26,
+	23,
+	26,
+	23,
+	26,
+	23,
+	26,
+	23,
+	26,
+	23,
+	26,
+	32,
+	23,
+	95,
+	23,
+	2560,
+	23,
+	14,
+	14,
+	14,
+};
+extern const Il2CppCodeGenModule g_Microsoft_MixedReality_Toolkit_Services_SceneSystemCodeGenModule;
+const Il2CppCodeGenModule g_Microsoft_MixedReality_Toolkit_Services_SceneSystemCodeGenModule = 
+{
+	"Microsoft.MixedReality.Toolkit.Services.SceneSystem.dll",
+	131,
+	s_methodPointers,
+	s_InvokerIndices,
+	0,
+	NULL,
+	0,
+	NULL,
+	0,
+	NULL,
+	NULL,
+};
